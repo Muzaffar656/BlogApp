@@ -1,0 +1,30 @@
+.card {
+    background-color: #FFFFFF;
+    width: 582px;
+    border: 1px solid #ECF0F5;
+}
+.profile-name{
+    color: #0C1024;
+}
+.about-text{
+    color: #27364B;
+}
+
+.date{
+    color: #707988;
+}
+.profile-box{
+    border-bottom: 1px solid #F1F4F9;
+}
+.post-title{
+    color: #27364B;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 175%;
+}
+.post-image{
+    height: 247px;
+    width: 486px;
+    border-radius: 6px;
+    box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
+}
